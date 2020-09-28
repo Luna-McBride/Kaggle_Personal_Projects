@@ -1,6 +1,6 @@
 # Data_Analytics_Job_Exploration--Kaggle
 
-![Description Length vs Company Size](https://github.com/Luna-McBride/Data_Analytics_Job_Exploration--Kaggle/blob/master/SizexDesc.png)
+![Description Length vs Company Size](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Data%20Exploration/Data_Analytics_Glassdoor_Job_Exploration/SizexDesc.png)
 
 Data: https://www.kaggle.com/andrewmvd/data-analyst-jobs
 
