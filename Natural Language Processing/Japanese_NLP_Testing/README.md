@@ -1,6 +1,6 @@
 # Japanese_NLP_Testing--Kaggle
 
-![Japanese Data](https://github.com/Luna-McBride/Japanese_NLP_Testing--Kaggle/blob/master/JapaneseProcessing.png)
+![Japanese Data](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Natural%20Language%20Processing/Japanese_NLP_Testing/JapaneseProcessing.png)
 
 Data Used: https://www.kaggle.com/daiearth22/ml-tweet
 
@@ -16,4 +16,4 @@ I also noticed after processing that the Japanese stopwords list let slide words
 
 The final biggest issue I noticed was when trying to visualize some of the common words with matplotlib. Matplotlib does not recognize the Japanese characters, instead opting to replace each one with a little box (pictured below). This means when working with Japanese, exploratory graphs are not going to be as helpful. Instead, printing as python dictionaries for stuff like counts seems to be the best course of action, while numeric data and other typical use cases for matplotlib (like model accuracy and losses in machine learning) is fine to continue using it.
 
-![Box Graph](https://github.com/Luna-McBride/Japanese_NLP_Testing--Kaggle/blob/master/JapaneseProcessingGraph.png)
+![Box Graph](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Natural%20Language%20Processing/Japanese_NLP_Testing/JapaneseProcessingGraph.png)
