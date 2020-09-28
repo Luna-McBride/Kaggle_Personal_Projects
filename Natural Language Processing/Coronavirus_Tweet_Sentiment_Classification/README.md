@@ -1,6 +1,6 @@
 # Coronavirus_Tweet_Classification--Kaggle
 
-![Accuracy](https://github.com/Luna-McBride/Coronavirus_Tweet_Classification--Kaggle/blob/master/Accuracy.png)
+![Accuracy](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Natural%20Language%20Processing/Coronavirus_Tweet_Sentiment_Classification/Accuracy.png)
 
 Dataset Used: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
 
