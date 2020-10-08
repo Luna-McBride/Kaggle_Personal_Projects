@@ -4,6 +4,8 @@
 
 Data Used: https://www.kaggle.com/swathiachath/kc-housesales-data
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/house-regression-project
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project experimented with various regression algorithms from Scikit-Learn. The data itself was not all that messy, so the only cleanup that needed to be done was removing some unnecessary columns and using dates to make an age column.
