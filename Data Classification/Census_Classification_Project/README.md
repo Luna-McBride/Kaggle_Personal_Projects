@@ -4,6 +4,8 @@
 
 Data Used: https://www.kaggle.com/johnolafenwa/us-census-data
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/census-classification-project
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project takes advantage of a US Census dataset to predict whether each person has a income either lower then or higher than 50K a year. The data was very messy with even column names messed up, so I cleaned each column above and beyond just filtering nulls. This included visualizing each column with Matplotlib, dropping redundant columns, and fixing columns to combine terms (For example, I combined the education levels for preschool, 1st-4th grade, 5th-6th grade, etcetera into a non-graduate category).
