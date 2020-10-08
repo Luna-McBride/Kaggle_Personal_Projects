@@ -1,10 +1,12 @@
 # Hotel_Review_Keras_Classification_Project--Kaggle
 
+![Examples](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Natural%20Language%20Processing/Hotel_Review_Keras_Classification_Project/ExampleSentence.png)
+
 Used Data: https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
 
-My Kaggle: https://www.kaggle.com/lunamcbride24
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/hotel-review-keras-classification-project
 
-![Examples](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Natural%20Language%20Processing/Hotel_Review_Keras_Classification_Project/ExampleSentence.png)
+My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project processes hotel review data and classifies their ratings via Keras. This was meant as a response to my Coronavirus Tweet Classification Project, which used Spacy entirely, took an hour to fit, and got an accuracy of 76%. There was not much cleaning that was needed for this dataset, so the comparison is mostly in regard to tokenization and model training. 
 
