@@ -4,6 +4,8 @@
 
 Data: https://www.kaggle.com/andrewmvd/data-analyst-jobs
 
+The Notebooks in Kaggle: https://www.kaggle.com/lunamcbride24/data-analytics-cleaning, https://www.kaggle.com/lunamcbride24/data-analytics-exploration
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This is a cleaning and exploration of the Data Analyst Job data on Kaggle. It uses Python and its libraries Pandas, Matplotlib, and a bit of Numpy to clean and look through this Glassdoor job posting data.
