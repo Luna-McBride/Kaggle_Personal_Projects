@@ -4,6 +4,8 @@
 
 Data used: https://www.kaggle.com/arjunbhasin2013/ccdata
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/bank-data-clustering
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 The point of this project was to analyze this dataset that I found while browsing Kaggle, which I just felt compelled to work with after looking at it.
