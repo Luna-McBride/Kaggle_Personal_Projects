@@ -4,6 +4,8 @@
 
 Dataset Used: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/coronavirus-tweet-processing
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project was made following the concepts in the NLP course on Kaggle. It uses Python, Spacy, and Pandas to analyze tweet data, classifying it by how negative or possitive it was. The max accuracy came to 76% at batches of 10 with a loss of 17. This was definitely a good learning experience, but spacy is pretty difficult to find information on when struggling. It is also pretty restrictive when it comes to access to its optimizer and model. I hope to work on another project using the items that seemed more prominent and powerful even when trying to search for spacy (most likely NLTK and Keras), but I will look into them first beforehand. The tweet cleaning from the project, however, will be quite valuable for further tweet analysis in the future.
