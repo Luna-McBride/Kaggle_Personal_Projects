@@ -4,6 +4,8 @@
 
 Data Used: https://www.kaggle.com/daiearth22/ml-tweet
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/japanese-nlp-testing
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project was done to test processing Japanese. I had processed tweets in the previous project and I thought of the idea after noticing this dataset while looking for more data to test with. The tweets themselves are pretty basic machine learning tweets, with common terms like programming and ability. The processing the Japanese, however, was the interesting part.
