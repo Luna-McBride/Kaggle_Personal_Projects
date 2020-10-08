@@ -4,6 +4,8 @@
 
 Used Data: https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types?select=pokemon.csv
 
+The Notebook in Kaggle: https://www.kaggle.com/lunamcbride24/pokemon-generation-computer-vision-project
+
 My Kaggle: https://www.kaggle.com/lunamcbride24
 
 This project takes images of every Pokemon in generations 1-7 and classifies them based on their generation. This was meant as a rebutal to the people who hold the sentiment that all new pokemon are bad.
