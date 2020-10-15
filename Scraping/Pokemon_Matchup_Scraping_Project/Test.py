@@ -105,5 +105,5 @@ poke = ["Name", "Number"]
 data = poke + types
 
 pokemon = pd.DataFrame(pokeData, columns = data)
-pokemon.to_csv(r"C:\Users\Luna.DESKTOP-PEBO18O\Dropbox\DataScience\PokeData-TEST.csv", index = False)
+pokemon.to_csv(r".\PokeData-TEST.csv", index = False)
 driver.quit()

@@ -155,6 +155,6 @@ finally:
 	pokemon = pd.DataFrame(pokeData, columns = data)
 
 	#Take the dataframe and send it to a CSV called "PokeTypeMatchupData"
-	pokemon.to_csv(r"C:\Users\Luna.DESKTOP-PEBO18O\Dropbox\DataScience\PokeTypeMatchupData.csv", index = False)
+	pokemon.to_csv(r".\PokeTypeMatchupData.csv", index = False)
 
 	driver.quit() #Quit the driver when all is done.
