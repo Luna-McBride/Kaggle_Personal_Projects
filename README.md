@@ -4,6 +4,8 @@ This repository is to have an organized source for all Kaggle projects so they a
 
 File Structure:
 
-Kaggle_Personal_Projects -> Topic Name -> Personal Projects
+Kaggle_Personal_Projects -> Topic Name -> Personal Project Name -> Project Files
 
-It is built for anyone to easily find projects within specific topics. It also allows me to easily add new projects without needing to add a new repository and burying past projects. 
+This directory is built for anyone to easily find projects within specific topics. It also allows me to easily add new projects without needing to add a new repository and burying past projects. 
+
+It is fair to assume that the projects in this repositoty are built primarily in Python. Projects not written in Python have the main language indicated at the beginning of the project name, just like [The Ramen Data Exploration Project](https://github.com/Luna-McBride/Kaggle_Personal_Projects/tree/master/Data%20Exploration/R_Ramen_Data_Exploration) and its file name R_Ramen_Data_Exploration. 
