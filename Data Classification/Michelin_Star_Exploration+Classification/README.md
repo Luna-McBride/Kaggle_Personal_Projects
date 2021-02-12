@@ -22,4 +22,4 @@ The key locations for 3 star restaurants are London and the various capital citi
 
 ![for](https://github.com/Luna-McBride/Kaggle_Personal_Projects/blob/master/Data%20Classification/Michelin_Star_Exploration%2BClassification/LocationsForest.png)
 
-Next I decided to classify the restaurants to see if it could classify them by star count. As shown above, it could only pick up on one star restaurants. That lead to a 75% accuracy, but that is only because the amount of one star restaurants is that much higher than two or three star ones. That is to be expected from such an elite club, but I assume the difference would not be as stark if the dataset did not specifically eliminate the top countries.
+Next I decided to classify the restaurants to see if it could classify them by star count. As shown above, it could only pick up on one star restaurants. That lead to a 75%+ accuracy, but that is only because the amount of one star restaurants is that much higher than two or three star ones. That is to be expected from such an elite club, but I assume the difference would not be as stark if the dataset did not specifically eliminate the top countries.
